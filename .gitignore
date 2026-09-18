@@ -1,0 +1,15 @@
+node_modules
+dist
+.generated
+coverage
+*.local
+.DS_Store
+npm-debug.log*
+vitest.config.ts.timestamp*
+
+# Environment (keep .env.example, never real secrets)
+.env
+.env.*.local
+
+# Thread-local tooling state (preview server logs, run docs, worktree metadata)
+.freebuff/
