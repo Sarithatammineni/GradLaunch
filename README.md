@@ -1,4 +1,4 @@
-# PlaceTrack AI
+# GradLaunch
 
 A centralized, AI-powered **placement & job application management platform** for final-year students, fresh graduates, and job seekers.
 
